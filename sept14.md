@@ -24,11 +24,6 @@ boolean c = 10 > 1;
 
 System.out.println("The value of c is " + c); // will print true
 ```
-Short circuiting - Not evalutating the right hand
-```
-false && .. --> Will not evaluate the right
-true || .. --> Will not evalutate the right
-```
 ### If/else
 if/else if vs. multiple if statements
 - Multiple if statements not mutually exclusive
@@ -65,6 +60,11 @@ System.out.println(monthString);
 
 ### Logical operators
 - Short circuiting is helpful
+- Short circuiting - Not evalutating the right hand
+```
+false && .. --> Will not evaluate the right
+true || .. --> Will not evalutate the right
+```
 ``` 
 ! - not
 && - and
