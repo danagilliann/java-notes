@@ -6,7 +6,7 @@
 - Alphabet shit (Hi Alphabet u rock)
 - Hex and decimal
 - [Primative Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-- Math.random() [0,1)
+- Math.random() [0,1]
 - Insertion sort
 
 ### Arrayzzz
