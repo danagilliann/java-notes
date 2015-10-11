@@ -1,6 +1,5 @@
 # 10/7
 ### Include the ff in cheat sheet (Hi companies I'm not actually cheating I'm allowed to bring a cheat sheat):
-- Unicode
 - Coercing
 - Import statements
 - Alphabet shit (Hi Alphabet u rock)
