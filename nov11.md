@@ -1,0 +1,17 @@
+# 11/11
+- Default value of `char` is the Unicode value of 0
+- `Circle x = new Circle()` x contains a reference to Circle object
+	- Object Circle is on heap
+- Default value for `boolean` is false
+- Source codes may contain several classes, but only 1 public class
+- Formal parameters and actual parameter reference the same object
+- Overriding vs. Overloading
+	- Overloading: Different parameter list
+	- Overriding: Same parameter list, replace the other method COMPLETELY
+- Subclasses DO NOT inherit private members of a class
+- A subclass can only have one super class
+- Abstraction means user of class does not need to know how class is implemented. Details of implementation are encapsulated and hidden from user
+- Cannot override static methods
+- Inherited by subclasses:
+	- public static, protected static
+- Data Encapsulation - Hiding data from other classes 
