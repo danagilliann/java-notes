@@ -1,0 +1,3 @@
+- Clarifications:
+  - You cannot call methods of a static type on a dynamic type
+- Legits Qs:
