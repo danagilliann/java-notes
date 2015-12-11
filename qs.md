@@ -1,3 +1,6 @@
 - Clarifications:
   - You cannot call methods of a static type on a dynamic type
+  - (Nov 30) References are final but data is not (except for primitives and Strings)
 - Legits Qs:
+  - Scanner or FileReader?
+  - (Dec 2) Interfaces only have constants, variables, and methods

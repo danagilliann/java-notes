@@ -7,11 +7,6 @@
 ## HashMap
 - Dictionary
 - Built over an array
-- Built over an array
-- Built over an array
-- Built over an array
-- Built over an array
-- Built over an array
 - Order does not matter
 - Refer by key as opposed to index --> Key can be anything
 ```java
